@@ -1,0 +1,17 @@
+.emotional-status {
+  grid-column: 1 / 2;
+  grid-row: 2 / 3;
+  height: 200px;
+  width: 100%;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emotional-status h3 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+}

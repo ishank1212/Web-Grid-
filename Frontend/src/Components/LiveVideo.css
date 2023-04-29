@@ -1,0 +1,7 @@
+.live-video {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    height: 400px;
+    width: 100%;
+    background-color: #eee;
+  }
